@@ -23,8 +23,6 @@ import com.example.konzentrationstest.R;
 import com.example.konzentrationstest.TopScore;
 import com.example.konzentrationstest.Zeit;
 
-import java.util.Arrays;
-
 /**
  * This class handles the arithmetic module.
  */

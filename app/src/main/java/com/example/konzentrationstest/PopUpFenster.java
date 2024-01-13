@@ -115,7 +115,7 @@ public class PopUpFenster extends AppCompatActivity {
             switch (KEY) {
                 case "speicherPreferences_Rechnen":
                     // macht Buttons wieder frei sobald das Pop-Up-Fenster verlassen wurde
-                    Aufgabe_Rechnen.down.setEnabled(true);
+                    com.example.konzentrationstest.Modules.Aufgabe_Rechnen.down.setEnabled(true);
                     Aufgabe_Rechnen.up.setEnabled(true);
                     break;
                 case "speicherPreferences_Farben":
@@ -139,7 +139,7 @@ public class PopUpFenster extends AppCompatActivity {
             Zeit.active = true;
             // Punkte wieder zuruecksetzen
             punkte = 0;
-        }
+        });
 
         // makes leaving to the module menu during game impossible
         epicDialog.setCancelable(false);
