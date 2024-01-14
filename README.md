@@ -8,10 +8,10 @@ Die App ist vollständig in Java implementiert. Bei der integrierten Entwicklung
 ## Download:
 Download-Link: https://developer.android.com/studio
  
-1) Öffne Android Studio, klicke auf File --> New --> Project from Version Control.
+1) Öffne Android Studio, klicke auf `File --> New --> Project from Version Control.`
 2) Klicke beim Clone-Button auf Github auf den Hyperlink und kopiere den Link.
-3) Füge den Link in Android Studio ein und klicke auf Clone.
-4) Synchroniere das Projekt and klicke auf Run.
+3) Füge den Link in Android Studio ein und klicke auf `Clone`.
+4) Synchroniere das Projekt and klicke auf `Run`.
 
 
 ## Kategorien
